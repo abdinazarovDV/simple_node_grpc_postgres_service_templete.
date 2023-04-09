@@ -1,0 +1,630 @@
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:19:46.302Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: requested - {"id":"2aa6","name":"Hello","price":"20"}',
+  level: 'info',
+  timestamp: '2023-04-09T08:19:51.441Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.create: requested, {"id":"be13d698-75d6-4235-a41e-ade34b975173","name":"Hello","price":"20"}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:19:51.446Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: failed with error: data.params is not iterable (cannot read property undefined)',
+  level: 'error',
+  timestamp: '2023-04-09T08:19:51.447Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:20:48.855Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: requested - {"id":"2aa6","name":"Hello","price":"20"}',
+  level: 'info',
+  timestamp: '2023-04-09T08:20:52.821Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.create: requested, ["d72a6ba1-da22-4de5-8dc3-c43de495bcab","Hello","20"]',
+  level: 'debug',
+  timestamp: '2023-04-09T08:20:52.823Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: failed with error: data.params is not iterable (cannot read property undefined)',
+  level: 'error',
+  timestamp: '2023-04-09T08:20:52.824Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: requested - {"id":"2aa6","name":"Hello","price":"20"}',
+  level: 'info',
+  timestamp: '2023-04-09T08:20:54.210Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.create: requested, ["d271c6d2-7aa8-4519-9cf0-faff0e2ed3c4","Hello","20"]',
+  level: 'debug',
+  timestamp: '2023-04-09T08:20:54.211Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: failed with error: data.params is not iterable (cannot read property undefined)',
+  level: 'error',
+  timestamp: '2023-04-09T08:20:54.212Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:21:32.895Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: requested - {"id":"2aa6","name":"Hello","price":"20"}',
+  level: 'info',
+  timestamp: '2023-04-09T08:21:37.402Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.create: requested, {"params":["453bef2b-2dfd-4a3b-b98e-66479fee71b8","Hello","20"]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:21:37.403Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.create: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:21:37.421Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:21:37.422Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:25:27.183Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: requested - {"id":"2aa6","name":"Hello","price":"20"}',
+  level: 'info',
+  timestamp: '2023-04-09T08:25:47.322Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.create: requested, {"params":["da3f68df-7f82-4979-97b4-5c7fef703e1f","Hello","20"]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:25:47.323Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.create: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:25:47.333Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:25:47.333Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getById: requested - {"id":"da3f68df-7f82-4979-97b4-5c7fef703e1f"}',
+  level: 'info',
+  timestamp: '2023-04-09T08:26:07.001Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getById: requested, {"params":["da3f68df-7f82-4979-97b4-5c7fef703e1f"]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:26:07.002Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getById: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:26:07.008Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getById: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:26:07.009Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:26:11.600Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:26:11.601Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:26:11.604Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:27:21.423Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:27:24.871Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:27:24.872Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:24.879Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:27:25.565Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:27:25.565Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:25.567Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:27:25.754Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:27:25.755Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:25.758Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:27:25.931Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:27:25.931Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:25.933Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:27:26.105Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:27:26.106Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:26.108Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:27:47.022Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:27:49.292Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:27:49.293Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:49.303Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:28:12.001Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:28:14.071Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:28:14.072Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:28:14.081Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:28:59.575Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:29:01.517Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:29:01.518Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:29:01.529Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:29:13.481Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:29:17.564Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:29:17.565Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:29:17.575Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:29:17.576Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'grpc server is running at 9102',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:03.123Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:05.601Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:05.602Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:05.616Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:05.617Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: requested - {"id":"2aa6","name":"meme","price":"5430"}',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:21.430Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.create: requested, {"params":["f91b4d26-d20c-4901-b790-29fd6dfa39bd","meme","5430"]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:21.431Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.create: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:21.439Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:21.440Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:24.745Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:24.745Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:24.747Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:24.748Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.update: requested - {"id":"da3f68df-7f82-4979-97b4-5c7fef703e1f","name":"Ronaldo","price":"5670"}',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:51.204Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.update: requested, {"params":["da3f68df-7f82-4979-97b4-5c7fef703e1f","Ronaldo","5670"]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:51.205Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.update: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:51.217Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.update: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:51.217Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:54.323Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:54.323Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:30:54.325Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:30:54.325Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.delete: requested - {"id":"f91b4d26-d20c-4901-b790-29fd6dfa39bd"}',
+  level: 'info',
+  timestamp: '2023-04-09T08:31:18.477Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.delete: requested, {"params":["f91b4d26-d20c-4901-b790-29fd6dfa39bd"]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:31:18.477Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.delete: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:31:18.487Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.delete: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:31:18.487Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: requested - {"offset":10,"limit":10}',
+  level: 'info',
+  timestamp: '2023-04-09T08:31:21.216Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: requested, {"params":[10,10]}',
+  level: 'debug',
+  timestamp: '2023-04-09T08:31:21.216Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'storage.product.getList: succeeded',
+  level: 'debug',
+  timestamp: '2023-04-09T08:31:21.218Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: succeeded',
+  level: 'info',
+  timestamp: '2023-04-09T08:31:21.218Z',
+  label: 'object_builder_service',
+  metadata: {}
+}

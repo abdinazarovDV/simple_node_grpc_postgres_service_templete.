@@ -1,0 +1,84 @@
+{
+  message: 'service.product.create: failed with error: data.params is not iterable (cannot read property undefined)',
+  level: 'error',
+  timestamp: '2023-04-09T08:19:51.447Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: failed with error: data.params is not iterable (cannot read property undefined)',
+  level: 'error',
+  timestamp: '2023-04-09T08:20:52.824Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.create: failed with error: data.params is not iterable (cannot read property undefined)',
+  level: 'error',
+  timestamp: '2023-04-09T08:20:54.212Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:26:11.604Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:24.879Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:25.567Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:25.758Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:25.933Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:26.108Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:27:49.303Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:28:14.081Z',
+  label: 'object_builder_service',
+  metadata: {}
+}
+{
+  message: 'service.product.getList: failed with error: bind message supplies 1 parameters, but prepared statement "" requires 0',
+  level: 'error',
+  timestamp: '2023-04-09T08:29:01.529Z',
+  label: 'object_builder_service',
+  metadata: {}
+}

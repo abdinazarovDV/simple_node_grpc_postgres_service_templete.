@@ -1,0 +1,6 @@
+syntax="proto3";
+
+package scrum_service;
+option go_package="genproto/scrum_service";
+
+import "product_service.proto";

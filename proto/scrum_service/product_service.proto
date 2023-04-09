@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+package scrum_service;
+
+option go_package="genproto/scrum_service";
+
+service ProductService {
+    rpc Create (Product) returns (Product) {}
+    rpc GetById (ProductPrimaryKey) returns (Product) {}
+    rpc GetList (ProductListRequest) returns (GetListResponse) {}
+    rpc Update (Product) returns (Product) {}
+    rpc Delete (ProductPrimaryKey) returns (Product) {}
+}
+
+message Product {
+    string id = 1;
+    string name = 2;
+    int64 price = 3;
+}
+
+message ProductPrimaryKey {
+    string id = 1;
+}
+
+message ProductListRequest {
+    int32 offset = 1;
+    int32 limit = 2;
+}
+
+message GetListResponse {
+    repeated Product products = 1;
+}
